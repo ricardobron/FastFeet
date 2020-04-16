@@ -19,7 +19,6 @@ class WithdrawController {
     const { id, delivery_id } = req.params;
 
     const { start_date } = req.body;
-    console.log(start_date);
 
     /**
      * check deliveryman exists
