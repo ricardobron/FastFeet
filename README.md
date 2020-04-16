@@ -88,7 +88,7 @@ Foi utilizado o docker para a criação do banco de dados.
 2. ``yarn``
 3. ``Criar o arquivo .env com base no .env.example``
 4. ``yarn sequelize db:migrate``
-5. ``yarn sequelize db:seed:all`` (
+5. ``yarn sequelize db:seed:all`` 
 6. ``yarn dev``
 
 Existe um usuário administrador padrão gerado através do seed: admin@fastfeet.com / 123456
