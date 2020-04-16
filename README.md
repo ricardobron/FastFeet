@@ -17,22 +17,22 @@
   </p>
 </p>
 
-<img src="./.gihub/front1.png">
+<img src="./.github/front1.png">
 </br>
 
-<img src="./.gihub/front2.png">
+<img src="./.github/front2.png">
 </br>
 
-<img src="./.gihub/front3.png">
+<img src="./.github/front3.png">
 </br>
 
-<img src="./.gihub/mobile1.png">
+<img src="./.github/mobile1.png">
 </br>
 
-<img src="./.gihub/mobile2.png">
+<img src="./.github/mobile2.png">
 </br>
 
-<img src="./.gihub/mobile3.png">
+<img src="./.github/mobile3.png">
 </br>
 
 ## :rocket: Sobre o desafio
